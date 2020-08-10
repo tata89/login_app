@@ -1,6 +1,6 @@
 # login_app
 _____useful commands_____
 
-npm install
+step-1 : npm install
 
-npm start
+step-2 : npm start
